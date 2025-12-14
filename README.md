@@ -1,12 +1,21 @@
 # Full Stack Job Portal with React JS, Tailwind CSS, Supabase, Clerk, Shadcn UI Tutorial 🔥🔥
 # Job Portal Application
-Below is a **ready-to-copy `README.md`**.
-Just **select all → copy → paste into your GitHub `README.md` file** 👇
+Below is a ready-to-copy `README.md`.
+Just select all → copy → paste into your GitHub `README.md` file 👇
 
----
+WEBSITE SCREENSHOTS-:
+<img width="1894" height="1015" alt="Screenshot 2025-12-14 150309" src="https://github.com/user-attachments/assets/f1b53553-8c4f-4ab6-9947-0a0924e8dd30" />
 
-```md
+
+<img width="1865" height="1011" alt="Screenshot 2025-12-14 150446" src="https://github.com/user-attachments/assets/e7e9394e-d743-4aa2-8588-605072b01737" />
+
+<img width="1903" height="1009" alt="Screenshot 2025-12-14 150428" src="https://github.com/user-attachments/assets/436e33a5-aa44-4821-8d0a-629a1b4e276b" />
+
+<img width="1877" height="946" alt="Screenshot 2025-12-14 150318" src="https://github.com/user-attachments/assets/bb57198a-b37f-43cb-a985-9c48ecddf290" />
+<img width="1813" height="973" alt="Screenshot 2025-12-14 150415" src="https://github.com/user-attachments/assets/b5dc5918-3f65-43ef-9a1f-c902a41f0b1f" />
+
 # Job Portal Application
+
 
 A full-stack Job Portal web application where users can search and apply for jobs, and recruiters can post and manage job listings.
 
@@ -93,7 +102,7 @@ VITE_SUPABASE_ANON_KEY=your_supabase_anon_key
 1. Clone the repository
 ```
 
-git clone [https://github.com/your-username/job-portal.git](https://github.com/your-username/job-portal.git)
+git clone [(https://github.com/siddharthcode-24/Full-stack-Job-Porta)]
 
 ```
 
