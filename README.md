@@ -126,7 +126,7 @@ npm run dev
 5. Open in browser
 ```
 
-[http://localhost:5173](http://localhost:5173)
+[http://localhost:5173]
 
 ```
 
@@ -161,5 +161,4 @@ B.Tech Computer Science Student
 ---
 
 ⭐ Star this repository if you find it useful
-```
 
