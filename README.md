@@ -1,7 +1,5 @@
-# Full Stack Job Portal with React JS, Tailwind CSS, Supabase, Clerk, Shadcn UI Tutorial 🔥🔥
+# Full Stack Job Portal with React JS, Tailwind CSS, Supabase, Clerk, Shadcn UI 🔥🔥
 # Job Portal Application
-Below is a ready-to-copy `README.md`.
-Just select all → copy → paste into your GitHub `README.md` file 👇
 
 WEBSITE SCREENSHOTS-:
 <img width="1894" height="1015" alt="Screenshot 2025-12-14 150309" src="https://github.com/user-attachments/assets/f1b53553-8c4f-4ab6-9947-0a0924e8dd30" />
@@ -13,8 +11,6 @@ WEBSITE SCREENSHOTS-:
 
 <img width="1877" height="946" alt="Screenshot 2025-12-14 150318" src="https://github.com/user-attachments/assets/bb57198a-b37f-43cb-a985-9c48ecddf290" />
 <img width="1813" height="973" alt="Screenshot 2025-12-14 150415" src="https://github.com/user-attachments/assets/b5dc5918-3f65-43ef-9a1f-c902a41f0b1f" />
-
-# Job Portal Application
 
 
 A full-stack Job Portal web application where users can search and apply for jobs, and recruiters can post and manage job listings.
